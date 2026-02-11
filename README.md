@@ -1,11 +1,20 @@
-# Current Project Overview
+# Martina Terlevic  
 
-... (Other sections)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC1E1E&width=435&lines=A.K.A.+Seph+The+Overwitch)](https://git.io/typing-svg)
 
-## Social Links
+I'm a software engineer with a passion for educating, streaming and witchcraft. My love lies on the backend, but Im not a stranger to moving those pixels left and right from time to time.
 
-<a href="https://instagram.com/sephtheoverwitch"><img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/martinaterlevic/"><img src="https://cdn.simpleicons.org/linkedin/000000" alt="LinkedIn" /></a>
-<a href="https://sephiknot.com/"><img src="https://cdn.simpleicons.org/globe/000000" alt="Website" /></a>
+### Socials
 
-... (Rest of the README content)
+
+### Languages/Tools
+
+
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
