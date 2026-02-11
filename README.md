@@ -4,11 +4,6 @@
 
 I'm a software engineer with a passion for educating, streaming and witchcraft. My love lies on the backend, but Im not a stranger to moving those pixels left and right from time to time.
 
-### Social Links
-
-[![Instagram](https://cdn.simpleicons.org/instagram)](https://instagram.com/sephtheoverwitch)
-[![LinkedIn](https://cdn.simpleicons.org/linkedin)](https://www.linkedin.com/in/martinaterlevic/)
-[![Website](https://cdn.simpleicons.org/googlechrome)](https://sephiknot.com/)
 
 ### Languages/Tools
 
